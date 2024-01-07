@@ -107,3 +107,6 @@ nav a{
     display: flex;
     justify-content: space-around;
 }
+#What-I-do-discription{
+    padding: 30px 150px;
+}
